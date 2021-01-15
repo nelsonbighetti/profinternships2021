@@ -1,0 +1,17 @@
+{   
+    "common" : 
+    {
+        "qi_names" : ["passportid", "zipcode", "age"],
+        "k_value" : 3
+    },  
+    "dumper" : 
+    {
+        "table_dump_path" : "table_dump.csv",
+        "db_name" : "k-anon-demo",
+        "db_user" : "postgres",
+        "db_password" : "1",
+        "db_host" : "localhost",
+        "table_name" : "Medical_Data"
+    }
+}
+

@@ -1,0 +1,24 @@
+{   
+    "common" : 
+    {
+        "table_path_base" : "C:\\Users\\79313\\Documents\\repos\\k-anon-scratch\\data\\datasets\\", 
+        "table_name" : "db_100.csv", 
+        "qi_names" : ["id","age","zip_code"], 
+        "k_value" : 5, 
+        "output_path_base" : "C:\\Users\\79313\\Documents\\repos\\k-anon-scratch\\output\\",
+        "vgh_depth" : 3
+    },
+
+    "datafly" : 
+    {
+        "vgh_data" : ["C:\\Users\\79313\\Documents\\repos\\k-anon-scratch\\data\\meta_datafly\\db_100\\id_db_100.txt",
+                      "C:\\Users\\79313\\Documents\\repos\\k-anon-scratch\\data\\meta_datafly\\db_100\\age_db_100.txt",
+                      "C:\\Users\\79313\\Documents\\repos\\k-anon-scratch\\data\\meta_datafly\\db_100\\zip_db_100.txt"]
+    },
+
+    "incognito" : 
+    {
+        "qi_data" : "C:\\Users\\79313\\Documents\\repos\\k-anon-scratch\\data\\meta_incognito\\db_100\\db_100_3_qi.json"
+    }
+}
+

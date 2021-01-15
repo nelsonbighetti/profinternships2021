@@ -1,0 +1,33 @@
+{
+  "table" : {
+    "header_min" : 6,
+    "header_max" : 10,
+
+    "cols_min"  : 10,
+    "cols_max" : 15,
+
+    "min_repeat" : 5,
+    "max_repeat" : 10,
+
+    "rows_min" : 10000,
+    "rows_max" : 10000,
+
+    "min_field_len" : 5,
+    "max_field_len" : 5,
+
+    "k_min" : 3,
+    "k_max" : 5,
+
+    "q_min" : 2,
+    "q_max" : 2
+  },
+  "common" : {
+    "dataset_folder" : "C:\\Users\\79313\\Documents\\repos\\k-anon-scratch\\data\\datasets\\generated\\",
+    "configs_folder" : "C:\\Users\\79313\\Documents\\repos\\k-anon-scratch\\configs\\generated\\",
+    "incognito_meta_folder" : "C:\\Users\\79313\\Documents\\repos\\k-anon-scratch\\data\\meta_incognito\\generated\\",
+    "datafly_meta_folder" : "C:\\Users\\79313\\Documents\\repos\\k-anon-scratch\\data\\meta_datafly\\generated\\",
+    "vgh_depth_min" : 2,
+    "vgh_depth_max" : 4,
+    "output_path_base" : "C:\\Users\\79313\\Documents\\repos\\k-anon-scratch\\output\\generated\\"
+  }
+}
